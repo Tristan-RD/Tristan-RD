@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tristan Rudrauf - Développeur en alternance pour le titre de CDA
 
 <!--
 **Tristan-RD/Tristan-RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
