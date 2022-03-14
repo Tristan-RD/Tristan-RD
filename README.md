@@ -8,8 +8,11 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+Hello 👋 
+
 I'm a junior developer and currently in alternation with the [O'clock](https://oclock.io/) school and the [Alltricks](https://www.alltricks.fr/) enterprise.
 
+One of the last projects i worked on : [PictoPicto](http://pictopicto.fr/)
 
 <!--
 
