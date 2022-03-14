@@ -10,7 +10,7 @@
 
 I'm a junior developer and currently in alternation with the [O'clock](https://oclock.io/) school and the [Alltricks](https://www.alltricks.fr/) enterprise.
 
-[Tristan Rudrauf](https://www.linkedin.com/in/tristanrudrauf/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <!--
 
 - 🔭 I’m currently working on ...
