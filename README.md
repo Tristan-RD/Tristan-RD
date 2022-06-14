@@ -14,8 +14,6 @@ I'm a junior developer and currently in alternation with the [O'clock](https://o
 
 [![ LinkedIn ](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristanrudrauf/)
 
-One of the last projects i worked on : [PictoPicto](http://pictopicto.fr/)
-
 ⚡ What I like :
 - Video Games
 - Animals
